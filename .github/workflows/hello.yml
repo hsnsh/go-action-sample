@@ -1,4 +1,4 @@
-name: hello world
+name: Simple Job
 
 on:
   push:
