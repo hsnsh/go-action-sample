@@ -1,2 +1,2 @@
-# go-rest-api-with-db
-Golang RestAPI with PostgreSQL Database
+# go-action-sample
+Golang CI/CD Sample Repository
